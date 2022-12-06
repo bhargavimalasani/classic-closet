@@ -28,6 +28,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "engines": {
+    "node": "12.18.3",
+    "npm": "8.3.0"
+},
   "browserslist": {
     "production": [
       ">0.2%",
